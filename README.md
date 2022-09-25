@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mmahabib11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m MN
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on project
+- 📫 How to reach me by mail: mmahabib11@gmail.com
 
 <!---
 mmahabib11/mmahabib11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
